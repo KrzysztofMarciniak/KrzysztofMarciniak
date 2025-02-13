@@ -1,5 +1,6 @@
 ## Hello, World!
 * [Articles](https://marciniaksolutions.eu/articles)
+  * [Practical Implementation of Compartmentalized Services](https://marciniaksolutions.eu/articles/practical-implementation-of-compartmentalized-services) 
 * [About me](https://marciniaksolutions.eu/aboutme)
 ---
 repos:
