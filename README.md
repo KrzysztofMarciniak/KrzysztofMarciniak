@@ -10,7 +10,6 @@ repos:
   * [minimalist ls](https://github.com/KrzysztofMarciniak/minimalist-ls)
 * [dwm patched config](https://github.com/KrzysztofMarciniak/dwm-config)
 * [mwm - A tiling window manager written in 500 lines of code!](https://github.com/KrzysztofMarciniak/minimal-window-manager)
-* [mwm+ - Expanded version of mwm with threads and quality of life improvments](https://github.com/KrzysztofMarciniak/minimal-window-manager-plus)
 * [php-cs-fixer emacs package](https://github.com/KrzysztofMarciniak/php-cs-fixer.el)
 * [monero crowfunding platform written in rust with docker and waf protection containing zero javascript](https://github.com/KrzysztofMarciniak/MRS-Funding-Software)
 * [laravel logging/datamining system](https://github.com/KrzysztofMarciniak/Laravel-Logs)
