@@ -31,6 +31,7 @@
 
 #### 📱 Mobile
 - [KISS Android Apps Launcher](https://github.com/Neamar/KISS) – launcher under 250KB (been using for years. never had any problems)
+- [calyxos](https://calyxos.org/) - Privacy focused Android OS.
 
 #### 🧪 Development & Frameworks
 - [Tailwind CSS](https://tailwindcss.com/) – CSS framework
