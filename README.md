@@ -24,8 +24,8 @@
 - [Doom Emacs](https://github.com/doomemacs/doomemacs) – No need for introduction
 - [Doom Mono Dark Theme](https://github.com/KrzysztofMarciniak/doom-mono-dark-theme) – Minimal UI theme. Black bg, white code, red errors, yellow warnings
 - [Commit Mono Font](https://github.com/eigilnikolajsen/commit-mono) – Monospace font for code
-- https://github.com/karthink/gptel 
-
+- [gptel](https://github.com/karthink/gptel) – LLM client for Emacs
+- 
 #### 🧰 Tools / Utilities
 - [afetch](https://github.com/13-CF/afetch) – POSIX system info fetcher in C
 - [doas](https://man.openbsd.org/doas) – `sudo` alternative
@@ -40,7 +40,10 @@
 - [nlohmann/json](https://github.com/nlohmann/json) – Modern C++ JSON library
 - [laravel](https://github.com/laravel/laravel) – PHP web application framework
 - [go api dev](https://go.dev/doc/tutorial/web-service-gin) – Go tutorial for building web APIs with Gin
-- [Document Creation - Markdown + LaTeX + Pandoc](https://pandoc.org/) – `pandoc paper.md -o paper.pdf --toc --toc-depth=5`
+
+#### 📄 Document Viewing / Writing
+- [Zathura](https://github.com/pwmt/zathura) – Minimal PDF/DjVu/PS viewer with vi keybindings
+- [Document Creation – Markdown + LaTeX + Pandoc](https://pandoc.org/) – `pandoc paper.md -o paper.pdf --toc --toc-depth=5`
 
 #### 🕸️ Networking / Security
 - [miniircd (irc server)](https://github.com/jrosdahl/miniircd) – Minimal IRC server in Python
