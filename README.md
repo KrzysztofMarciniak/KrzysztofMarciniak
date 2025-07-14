@@ -25,7 +25,7 @@
 - [Doom Mono Dark Theme](https://github.com/KrzysztofMarciniak/doom-mono-dark-theme) – Minimal UI theme. Black bg, white code, red errors, yellow warnings
 - [Commit Mono Font](https://github.com/eigilnikolajsen/commit-mono) – Monospace font for code
 - [gptel](https://github.com/karthink/gptel) – LLM client for Emacs
-- 
+ 
 #### 🧰 Tools / Utilities
 - [afetch](https://github.com/13-CF/afetch) – POSIX system info fetcher in C
 - [doas](https://man.openbsd.org/doas) – `sudo` alternative
