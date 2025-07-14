@@ -24,6 +24,7 @@
 - [Doom Emacs](https://github.com/doomemacs/doomemacs) – No need for introduction
 - [Doom Mono Dark Theme](https://github.com/KrzysztofMarciniak/doom-mono-dark-theme) – Minimal UI theme. Black bg, white code, red errors, yellow warnings
 - [Commit Mono Font](https://github.com/eigilnikolajsen/commit-mono) – Monospace font for code
+- https://github.com/karthink/gptel 
 
 #### 🧰 Tools / Utilities
 - [afetch](https://github.com/13-CF/afetch) – POSIX system info fetcher in C
@@ -47,7 +48,14 @@
 - [ModSecurity-nginx](https://github.com/owasp-modsecurity/ModSecurity-nginx) – Web app firewall module for nginx
 - [OpenBSD Security Review](https://isopenbsdsecu.re/) – Systematic review of OpenBSD’s security mitigations
 - [Icecat Browser](https://icecatbrowser.org/) – Privacy focused Firefox fork  
-- [WeeChat IRC Client](https://weechat.org/) – Lightweight, extensible IRC client  
+- [WeeChat IRC Client](https://weechat.org/) – Lightweight, extensible IRC client
+- [Vimium C](https://github.com/gdh1995/vimium-c) – Keyboard navigation for the web
+- [OpenRouter](https://openrouter.ai/) – LLM API router 
+- [uBlock Origin](https://github.com/gorhill/uBlock) – ad blocker
+- [AMOLED Black](https://addons.mozilla.org/en-US/firefox/addon/amoled-black/) – Dark theme for Firefox
+- [Auto Tab Discard](https://github.com/rNeomy/auto-tab-discard) – Suspend inactive browser tabs
+- [LocalCDN](https://www.localcdn.org/) – Self host common web libraries
+- [Violentmonkey](https://violentmonkey.github.io/) – UserScript manager 
 
 #### 🎮 Games
 - [Fallout1-ce](https://github.com/alexbatalov/fallout1-ce) – Open-source reimplementation of Fallout 1
