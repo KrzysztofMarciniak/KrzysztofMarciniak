@@ -58,7 +58,14 @@
 - [AMOLED Black](https://addons.mozilla.org/en-US/firefox/addon/amoled-black/) – Dark theme for Firefox
 - [Auto Tab Discard](https://github.com/rNeomy/auto-tab-discard) – Suspend inactive browser tabs
 - [LocalCDN](https://www.localcdn.org/) – Self host common web libraries
-- [Violentmonkey](https://violentmonkey.github.io/) – UserScript manager 
+- [Violentmonkey](https://violentmonkey.github.io/) – UserScript manager
+- [Tor](https://www.torproject.org/) / [I2P](https://geti2p.net/en/) – **Why host here?**  
+  - 🌐 No ICANN dependency – free from registrars & centralized authorities.
+  - 🛡️ User privacy – visitors connect without exposing IP addresses.
+  - 🔒 Server privacy – onion/eepsite addresses conceal edge server IP.
+- VPNs  
+  - [Mullvad](https://kycnot.me/service/mullvad) 
+  - [Nym](https://kycnot.me/service/nymvpn)   
 
 #### 🎮 Games
 - [Fallout1-ce](https://github.com/alexbatalov/fallout1-ce) – Open-source reimplementation of Fallout 1
