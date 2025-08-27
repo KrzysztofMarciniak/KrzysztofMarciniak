@@ -2,6 +2,7 @@
 
 ### Certifications
 * IT Technician (351203)
+* [Certified IT Security Specialist](https://ciss.akademiabezpieczenstwa.pl/) no. 000509
 
 ### Articles
 [![Design and Implementation of mwm and mwm+: Minimal X11 Tiling Window Managers in C](https://zenodo.org/badge/DOI/10.5281/zenodo.15824542.svg)](https://doi.org/10.5281/zenodo.15824542)
