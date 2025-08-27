@@ -65,7 +65,8 @@
   - 🔒 Server privacy – onion/eepsite addresses conceal edge server IP.
 - VPNs  
   - [Mullvad](https://kycnot.me/service/mullvad) 
-  - [Nym](https://kycnot.me/service/nymvpn)   
+  - [Nym](https://kycnot.me/service/nymvpn)
+- [IPv6](https://www.rfc-editor.org/rfc/rfc2460) - escape IPv4 scarcity.
 
 #### 🎮 Games
 - [Fallout1-ce](https://github.com/alexbatalov/fallout1-ce) – Open-source reimplementation of Fallout 1
