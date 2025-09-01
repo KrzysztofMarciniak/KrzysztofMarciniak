@@ -47,6 +47,8 @@
 - [Document Creation – Markdown + LaTeX + Pandoc](https://pandoc.org/) – `pandoc paper.md -o paper.pdf --toc --toc-depth=5`
 
 #### 🕸️ Networking / Security
+- **Articles**:
+  - [Don’t try to sanitize input. Escape output.](https://benhoyt.com/writings/dont-sanitize-do-escape/)
 - [miniircd (irc server)](https://github.com/jrosdahl/miniircd) – Minimal IRC server in Python
 - [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) – Encrypted messaging
 - [ModSecurity-nginx](https://github.com/owasp-modsecurity/ModSecurity-nginx) – Web app firewall module for nginx
