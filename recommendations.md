@@ -27,6 +27,7 @@
 - [nlohmann/json](https://github.com/nlohmann/json) – Modern C++ JSON library
 - [laravel](https://github.com/laravel/laravel) – PHP web application framework
 - [go api dev](https://go.dev/doc/tutorial/web-service-gin) – Go tutorial for building web APIs with Gin
+- [tmux alternative](https://www.brain-dump.org/projects/dvtm/)
 
 #### 📄 Document Viewing / Writing
 - [Zathura](https://github.com/pwmt/zathura) – Minimal PDF/DjVu/PS viewer with vi keybindings
