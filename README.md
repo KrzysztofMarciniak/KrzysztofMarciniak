@@ -14,7 +14,7 @@
 | [**mpow**](https://github.com/KrzysztofMarciniak/mpow) | 🦀 Minimal Proof of Work service in Rust. JWT, Docker, HMAC, NGINX reverse proxy. | ![Rust](https://img.shields.io/badge/Rust-orange?logo=rust) ![Nginx](https://img.shields.io/badge/Nginx-green?logo=nginx) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) |
 | [**256avatars**](https://github.com/KrzysztofMarciniak/256avatars) | 🎨 Go library for generating unique, symmetric pixel-art avatars. | ![Go](https://img.shields.io/badge/Go-blue?logo=go) |
 | [**honeypot-go-php-apache**](https://github.com/KrzysztofMarciniak/honeypot-go-php-apache) | 🐳 Dockerized honeypot that mimics a legacy PHP/Apache server. | ![Go](https://img.shields.io/badge/Go-blue?logo=go) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) |
-| [**lua-openresty**](https://github.com/KrzysztofMarciniak/lua-openresty) | Lightweight HTTP server using OpenResty + Lua. | ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua) ![OpenResty](https://img.shields.io/badge/OpenResty-green) |
+| [**lua-openresty**](https://github.com/KrzysztofMarciniak/lua-openresty) | Lightweight Template HTTP server using OpenResty + Lua. | ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua) ![OpenResty](https://img.shields.io/badge/OpenResty-green) |
 
 
 
