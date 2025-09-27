@@ -1,5 +1,9 @@
 # Hello, World!
 
+### Certifications
+* IT Technician (351203)
+* [Certified IT Security Specialist](https://ciss.akademiabezpieczenstwa.pl/) no. 000509
+  
 ### Repositories
 
 | Project | Description | Tech Stack |
@@ -17,16 +21,9 @@
 | [**honeypot-go-php-apache**](https://github.com/KrzysztofMarciniak/honeypot-go-php-apache) | 🐳 Dockerized honeypot that mimics a legacy PHP/Apache server. | ![Go](https://img.shields.io/badge/Go-blue?logo=go) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) |
 | [**lua-openresty**](https://github.com/KrzysztofMarciniak/lua-openresty) | Lightweight Template HTTP server using OpenResty + Lua. | ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua) ![OpenResty](https://img.shields.io/badge/OpenResty-green) |
 
-
-
-### Certifications
-* IT Technician (351203)
-* [Certified IT Security Specialist](https://ciss.akademiabezpieczenstwa.pl/) no. 000509
-
 ### Articles
-[![Design and Implementation of mwm and mwm+: Minimal X11 Tiling Window Managers in C](https://zenodo.org/badge/DOI/10.5281/zenodo.15824542.svg)](https://doi.org/10.5281/zenodo.15824542)
-**Design and Implementation of mwm and mwm+: Minimal X11 Tiling Window Managers in C**
+| Title | DOI Badge |
+|-------|-----------|
+| **Design and Implementation of mwm and mwm+: Minimal X11 Tiling Window Managers in C** | [![Design and Implementation of mwm and mwm+: Minimal X11 Tiling Window Managers in C](https://zenodo.org/badge/DOI/10.5281/zenodo.15824542.svg)](https://doi.org/10.5281/zenodo.15824542) |
+| **Dual-Model Simple Cache (DMSC) and Triple-Model Adaptive Routing (TMAR): Multi-Model Optimization** | [![Dual-Model Simple Cache (DMSC) and Triple-Model Adaptive Routing (TMAR): Multi-Model Optimization](https://zenodo.org/badge/DOI/10.5281/zenodo.14957147.svg)](https://doi.org/10.5281/zenodo.14957147) |
 
-
-[![Dual-Model Simple Cache (DMSC) and Triple-Model Adaptive Routing (TMAR): Multi-Model Optimization](https://zenodo.org/badge/DOI/10.5281/zenodo.14957147.svg)](https://doi.org/10.5281/zenodo.14957147)
-**Dual-Model Simple Cache (DMSC) and Triple-Model Adaptive Routing (TMAR): Multi-Model Optimization**
