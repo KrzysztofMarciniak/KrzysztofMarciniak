@@ -1,8 +1,14 @@
 # Hello, World!
 
 ### Certifications
-* IT Technician (351203)
-* [Certified IT Security Specialist](https://ciss.akademiabezpieczenstwa.pl/) no. 000509
+<details>
+  <summary> IT Technician (351203) </summary>
+Vocational diploma.
+</details> 
+<details>
+  <summary> CISS </summary>
+<a href="https://ciss.akademiabezpieczenstwa.pl">Certified IT Security Specialist no. 000509</a>
+</details>
   
 ### Repositories
 
