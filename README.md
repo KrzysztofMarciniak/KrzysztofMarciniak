@@ -2,7 +2,7 @@
 
 ### Certifications
 <details>
-  <summary> IT Technician (351203) </summary>
+  <summary> IT Technician (351203) - INF.02, INF.03 </summary>
 Vocational diploma.
 </details> 
 <details>
