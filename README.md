@@ -9,7 +9,15 @@ Vocational diploma.
   <summary> CISS </summary>
 <a href="https://ciss.akademiabezpieczenstwa.pl">Certified IT Security Specialist no. 000509</a>
 </details>
-  
+
+### Accounts
+
+| Account | Platform |
+|---------|----------|
+| [krzysztofmarciniak](https://exercism.org/profiles/KrzysztofMarciniak/solutions?order=newest_first) | Exercism |
+| [krzysztofmarciniak](https://leetcode.com/u/krzysztofmarciniak/) | LeetCode |
+| [krzysztofmar](https://tryhackme.com/p/KrzysztofMar) | TryHackMe |
+
 ### Repositories
 
 | Project | Description | Tech Stack |
