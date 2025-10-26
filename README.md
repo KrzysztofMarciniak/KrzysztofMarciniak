@@ -35,6 +35,13 @@ Vocational diploma.
 | [**honeypot-go-php-apache**](https://github.com/KrzysztofMarciniak/honeypot-go-php-apache) | 🐳 Dockerized honeypot that mimics a legacy PHP/Apache server. | ![Go](https://img.shields.io/badge/Go-blue?logo=go) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) |
 | [**lua-openresty**](https://github.com/KrzysztofMarciniak/lua-openresty) | Lightweight Template HTTP server using OpenResty + Lua. | ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua) ![OpenResty](https://img.shields.io/badge/OpenResty-green) |
 
+### Gist
+
+| Topic | Tech Stack |
+|---|---|
+| [AI Prompt for Generating Anki Math Flashcards with LaTeX Formatting](https://gist.github.com/KrzysztofMarciniak/c11bdede6f659bbcc890de7595318409) | ![Markdown](https://img.shields.io/badge/Markdown-yes-green) ![AI](https://img.shields.io/badge/AI-GPT-blueviolet) |
+
+
 ### Articles
 | Title | DOI Badge |
 |-------|-----------|
