@@ -17,6 +17,7 @@ Vocational diploma.
 | [krzysztofmarciniak](https://exercism.org/profiles/KrzysztofMarciniak/solutions?order=newest_first) | Exercism |
 | [krzysztofmarciniak](https://leetcode.com/u/krzysztofmarciniak/) | LeetCode |
 | [krzysztofmar](https://tryhackme.com/p/KrzysztofMar) | TryHackMe |
+| [krzysztofmarciniak](https://gitlab.com/krzysztofmarciniak) | Gitlab |
 
 ### Repositories
 
