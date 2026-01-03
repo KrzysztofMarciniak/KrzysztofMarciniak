@@ -10,16 +10,12 @@ Vocational diploma.
 <a href="https://ciss.akademiabezpieczenstwa.pl">Certified IT Security Specialist no. 000509</a>
 </details>
 
-* Profile Picture is a Photo by Febe Vanermen from Pexels: [https://www.pexels.com/photo/zimowy-widok-na-zabytkowy-kosciol-i-dachy-30016365/](https://www.pexels.com/photo/winter-scene-of-historic-church-and-rooftops-30016365/)
-  https://www.pexels.com/photo/winter-scene-of-historic-church-and-rooftops-30016365/
-### Accounts
+### Articles
+| Title | DOI Badge |
+|-------|-----------|
+| **Design and Implementation of mwm and mwm+: Minimal X11 Tiling Window Managers in C** | [![Design and Implementation of mwm and mwm+: Minimal X11 Tiling Window Managers in C](https://zenodo.org/badge/DOI/10.5281/zenodo.15824542.svg)](https://doi.org/10.5281/zenodo.15824542) |
+| **Dual-Model Simple Cache (DMSC) and Triple-Model Adaptive Routing (TMAR): Multi-Model Optimization** | [![Dual-Model Simple Cache (DMSC) and Triple-Model Adaptive Routing (TMAR): Multi-Model Optimization](https://zenodo.org/badge/DOI/10.5281/zenodo.14957147.svg)](https://doi.org/10.5281/zenodo.14957147) |
 
-| Account | Platform |
-|---------|----------|
-| [krzysztofmarciniak](https://exercism.org/profiles/KrzysztofMarciniak/solutions?order=newest_first) | Exercism |
-| [krzysztofmarciniak](https://leetcode.com/u/krzysztofmarciniak/) | LeetCode |
-| [krzysztofmar](https://tryhackme.com/p/KrzysztofMar) | TryHackMe |
-| [krzysztofmarciniak](https://gitlab.com/krzysztofmarciniak) | Gitlab |
 
 ### Repositories
 
@@ -38,6 +34,15 @@ Vocational diploma.
 | [**honeypot-go-php-apache**](https://github.com/KrzysztofMarciniak/honeypot-go-php-apache) | 🐳 Dockerized honeypot that mimics a legacy PHP/Apache server. | ![Go](https://img.shields.io/badge/Go-blue?logo=go) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) |
 | [**lua-openresty**](https://github.com/KrzysztofMarciniak/lua-openresty) | Lightweight Template HTTP server using OpenResty + Lua. | ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua) ![OpenResty](https://img.shields.io/badge/OpenResty-green) |
 
+### Accounts
+
+| Account | Platform |
+|---------|----------|
+| [krzysztofmarciniak](https://exercism.org/profiles/KrzysztofMarciniak/solutions?order=newest_first) | Exercism |
+| [krzysztofmarciniak](https://leetcode.com/u/krzysztofmarciniak/) | LeetCode |
+| [krzysztofmar](https://tryhackme.com/p/KrzysztofMar) | TryHackMe |
+| [krzysztofmarciniak](https://gitlab.com/krzysztofmarciniak) | Gitlab |
+
 ### Gist
 
 | Topic | Tech Stack |
@@ -45,9 +50,8 @@ Vocational diploma.
 | [AI Prompt for Generating Anki Math Flashcards with LaTeX Formatting](https://gist.github.com/KrzysztofMarciniak/c11bdede6f659bbcc890de7595318409) | ![Markdown](https://img.shields.io/badge/Markdown-yes-green) ![AI](https://img.shields.io/badge/AI-GPT-blueviolet) |
 
 
-### Articles
-| Title | DOI Badge |
-|-------|-----------|
-| **Design and Implementation of mwm and mwm+: Minimal X11 Tiling Window Managers in C** | [![Design and Implementation of mwm and mwm+: Minimal X11 Tiling Window Managers in C](https://zenodo.org/badge/DOI/10.5281/zenodo.15824542.svg)](https://doi.org/10.5281/zenodo.15824542) |
-| **Dual-Model Simple Cache (DMSC) and Triple-Model Adaptive Routing (TMAR): Multi-Model Optimization** | [![Dual-Model Simple Cache (DMSC) and Triple-Model Adaptive Routing (TMAR): Multi-Model Optimization](https://zenodo.org/badge/DOI/10.5281/zenodo.14957147.svg)](https://doi.org/10.5281/zenodo.14957147) |
+* [Profile Picture is a Photo by Febe Vanermen from Pexels](https://www.pexels.com/photo/winter-scene-of-historic-church-and-rooftops-30016365/)
+
+
+
 
