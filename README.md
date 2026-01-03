@@ -10,6 +10,8 @@ Vocational diploma.
 <a href="https://ciss.akademiabezpieczenstwa.pl">Certified IT Security Specialist no. 000509</a>
 </details>
 
+* Profile Picture is a Photo by Febe Vanermen from Pexels: [https://www.pexels.com/photo/zimowy-widok-na-zabytkowy-kosciol-i-dachy-30016365/](https://www.pexels.com/photo/winter-scene-of-historic-church-and-rooftops-30016365/)
+  https://www.pexels.com/photo/winter-scene-of-historic-church-and-rooftops-30016365/
 ### Accounts
 
 | Account | Platform |
