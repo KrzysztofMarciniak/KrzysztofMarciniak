@@ -1,5 +1,13 @@
 # Hello, World!
 
+### About me
+* pc: [st](https://st.suckless.org/), [mwm](https://github.com/KrzysztofMarciniak/minimal-window-manager), [dmenu](https://tools.suckless.org/dmenu/), [artix](https://artixlinux.org/), [zfs](https://zfsonlinux.org/), [s6](https://skarnet.org/software/s6-linux-init/), [doom emacs](https://github.com/doomemacs/doomemacs) with [mono theme](https://github.com/KrzysztofMarciniak/doom-mono-dark-theme)
+* phone: [kiss launcher](https://github.com/Neamar/KISS) [kiwix](https://kiwix.org/en/applications/), [fennec (browser)](https://f-droid.org/pl/packages/org.mozilla.fennec_fdroid/), [grayjay](https://grayjay.app), [athena (dns + firewall)](https://f-droid.org/packages/com.kin.athena/), [aegis (2fa)](https://getaegis.app/), [fossify tools](https://www.fossify.org/).
+* intrests: cybsec, webdev, books & gym
+* fav langs: c, go, php ([laravel](https://laravel.com/), [symfony](https://symfony.com/)) 
+* [wallpaper](https://flic.kr/p/2kh2Qt6)
+* [profile picture](https://www.pexels.com/photo/winter-scene-of-historic-church-and-rooftops-30016365/)
+
 ### Certifications
 <details>
   <summary> IT Technician (351203) - INF.02, INF.03 </summary>
@@ -49,10 +57,6 @@ Vocational diploma.
 | Topic | Tech Stack |
 |---|---|
 | [AI Prompt for Generating Anki Math Flashcards with LaTeX Formatting](https://gist.github.com/KrzysztofMarciniak/c11bdede6f659bbcc890de7595318409) | ![Markdown](https://img.shields.io/badge/Markdown-yes-green) ![AI](https://img.shields.io/badge/AI-GPT-blueviolet) |
-
-
-* [Profile Picture is a Photo by Febe Vanermen from Pexels](https://www.pexels.com/photo/winter-scene-of-historic-church-and-rooftops-30016365/)
-
 
 
 
