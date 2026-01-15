@@ -3,7 +3,7 @@
 ### About me
 * pc: [st](https://st.suckless.org/), [mwm](https://github.com/KrzysztofMarciniak/minimal-window-manager), [dmenu](https://tools.suckless.org/dmenu/), [artix](https://artixlinux.org/), [zfs](https://zfsonlinux.org/), [s6](https://skarnet.org/software/s6-linux-init/), [doom emacs](https://github.com/doomemacs/doomemacs) with [mono theme](https://github.com/KrzysztofMarciniak/doom-mono-dark-theme)
 * phone: [kiss launcher](https://github.com/Neamar/KISS) [kiwix](https://kiwix.org/en/applications/), [fennec (browser)](https://f-droid.org/pl/packages/org.mozilla.fennec_fdroid/), [grayjay](https://grayjay.app), [athena (dns + firewall)](https://f-droid.org/packages/com.kin.athena/), [aegis (2fa)](https://getaegis.app/), [fossify tools](https://www.fossify.org/).
-* intrests: cybsec, webdev, books & gym
+* intrests: cybsec, webdev, non fiction literature & [gym](https://www.amazon.com/High-Intensity-Training-Mike-Mentzer-Way/dp/0071383301)
 * fav langs: c, go, php ([laravel](https://laravel.com/), [symfony](https://symfony.com/)) 
 * [wallpaper](https://flic.kr/p/2kh2Qt6)
 * [profile picture](https://www.pexels.com/photo/winter-scene-of-historic-church-and-rooftops-30016365/)
