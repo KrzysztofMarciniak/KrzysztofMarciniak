@@ -7,7 +7,6 @@
 * intrests: cybsec, webdev, non fiction literature & [gym](https://www.amazon.com/High-Intensity-Training-Mike-Mentzer-Way/dp/0071383301)
 * fav langs: c, go, php ([laravel](https://laravel.com/), [symfony](https://symfony.com/)) 
 * [wallpaper](https://flic.kr/p/2kh2Qt6)
-* [profile picture](https://www.pexels.com/photo/winter-scene-of-historic-church-and-rooftops-30016365/)
 
 ### Certifications
 <details>
