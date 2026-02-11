@@ -51,7 +51,7 @@ Vocational diploma.
 | [krzysztofmarciniak](https://leetcode.com/u/krzysztofmarciniak/) | LeetCode |
 | [krzysztofmar](https://tryhackme.com/p/KrzysztofMar) | TryHackMe |
 | [krzysztofmarciniak](https://gitlab.com/krzysztofmarciniak) | Gitlab |
-| [Krzysztof Marciniak](https://www.linkedin.com/in/krzysztof-marciniak-bbb5a83b0/) | LinkedIn |
+| [Krzysztof Marciniak](https://www.linkedin.com/in/krzysztofmarciniakit/) | LinkedIn |
 
 ### Gist
 
