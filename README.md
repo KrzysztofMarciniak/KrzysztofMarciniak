@@ -1,5 +1,4 @@
 # Hello, World!
-<img width="1920" height="1080" alt="desktop" src="https://github.com/user-attachments/assets/e2726763-b4db-489b-86fb-d778c3f392d6" />
 
 ### Certifications
 <details>
