@@ -1,5 +1,15 @@
 # Hello, World!
 
+### Accounts
+
+| Account | Platform |
+|---------|----------|
+| [krzysztofmarciniak](https://exercism.org/profiles/KrzysztofMarciniak/solutions?order=newest_first) | Exercism |
+| [krzysztofmarciniak](https://leetcode.com/u/krzysztofmarciniak/) | LeetCode |
+| [krzysztofmar](https://tryhackme.com/p/KrzysztofMar) | TryHackMe |
+| [krzysztofmarciniak](https://gitlab.com/krzysztofmarciniak) | Gitlab |
+| [Krzysztof Marciniak](https://www.linkedin.com/in/krzysztofmarciniakit/) | LinkedIn |
+
 ### Certifications
 <details>
   <summary> IT Technician (351203) - INF.02, INF.03 </summary>
@@ -35,16 +45,6 @@ Vocational diploma.
 | [**256avatars**](https://github.com/KrzysztofMarciniak/256avatars) | 🎨 Go library for generating unique, symmetric pixel-art avatars. | ![Go](https://img.shields.io/badge/Go-blue?logo=go) |
 | [**honeypot-go-php-apache**](https://github.com/KrzysztofMarciniak/honeypot-go-php-apache) | 🐳 Dockerized honeypot that mimics a legacy PHP/Apache server. | ![Go](https://img.shields.io/badge/Go-blue?logo=go) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) |
 | [**lua-openresty**](https://github.com/KrzysztofMarciniak/lua-openresty) | Lightweight Template HTTP server using OpenResty + Lua. | ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua) ![OpenResty](https://img.shields.io/badge/OpenResty-green) |
-
-### Accounts
-
-| Account | Platform |
-|---------|----------|
-| [krzysztofmarciniak](https://exercism.org/profiles/KrzysztofMarciniak/solutions?order=newest_first) | Exercism |
-| [krzysztofmarciniak](https://leetcode.com/u/krzysztofmarciniak/) | LeetCode |
-| [krzysztofmar](https://tryhackme.com/p/KrzysztofMar) | TryHackMe |
-| [krzysztofmarciniak](https://gitlab.com/krzysztofmarciniak) | Gitlab |
-| [Krzysztof Marciniak](https://www.linkedin.com/in/krzysztofmarciniakit/) | LinkedIn |
 
 ### Gist
 
