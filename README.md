@@ -31,6 +31,7 @@ Vocational diploma.
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| [**ScholarVault**](https://github.com/KrzysztofMarciniak/ScholarVault)  | Scientific articles publishing engine with Laravel 12 backend (API), SPA frontend using Axios, Tailwind CSS, and Font Awesome. | ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?logo=tailwind-css) ![Axios](https://img.shields.io/badge/Axios-FF0000?logo=axios) |
 | [**mwm**](https://github.com/KrzysztofMarciniak/minimal-window-manager) | A meticulously crafted, dynamic tiling window manager for X11, written in under 500 lines of code. | ![C](https://img.shields.io/badge/C-blue?logo=c) ![X11](https://img.shields.io/badge/X11-lightgrey) ![Make](https://img.shields.io/badge/Make-darkgreen) |
 | [**mwm+**](https://github.com/KrzysztofMarciniak/minimal-window-manager-plus) | An expanded version of `mwm` featuring borders, gaps, and status bar. | ![C](https://img.shields.io/badge/C-blue?logo=c) ![X11](https://img.shields.io/badge/X11-lightgrey) ![Make](https://img.shields.io/badge/Make-darkgreen) ![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash) |
 | [**CppJsonDB**](https://github.com/KrzysztofMarciniak/CppJsonDB) | C++ JSON database engine. | ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus) ![JSON](https://img.shields.io/badge/JSON-lightgrey) ![nlohmann](https://img.shields.io/badge/nlohmann--json-brightgreen) |
