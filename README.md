@@ -9,7 +9,7 @@
 | [krzysztofmar](https://tryhackme.com/p/KrzysztofMar) | TryHackMe |
 | [krzysztofmarciniak](https://gitlab.com/krzysztofmarciniak) | Gitlab |
 | [Krzysztof Marciniak](https://www.linkedin.com/in/krzysztofmarciniakit/) | LinkedIn |
-| [Krzysztof Marciniak](https://crowdin.com/profile/krzysztofmarciniak) | crowdin | 
+| [Krzysztof Marciniak](https://crowdin.com/profile/krzysztofmarciniak) | Crowdin | 
 
 ### Certifications
 <details>
