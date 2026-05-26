@@ -1,7 +1,7 @@
 # Hello, World!
 
 ## Website
-[github.io](https://krzysztofmarciniak.github.io/wizytowka/)
+[github.io/cv](https://krzysztofmarciniak.github.io/cv/)
 
 
 ### Accounts
