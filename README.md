@@ -67,6 +67,7 @@ Vocational diploma.
 |---|---|
 | [AI Prompt for Generating Anki Math Flashcards with LaTeX Formatting](https://gist.github.com/KrzysztofMarciniak/c11bdede6f659bbcc890de7595318409) | ![Markdown](https://img.shields.io/badge/Markdown-yes-green) ![AI](https://img.shields.io/badge/AI-GPT-blueviolet) |
 
+<sub>usually listening to while working: <a href="https://youtu.be/ZvJoQ9otfIs">Kraftwerk - The Hall of Mirrors</a></sub>
 
 <details>
   <summary>AI</summary>
