@@ -2,8 +2,6 @@
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=KrzysztofMarciniak.KrzysztofMarciniak&left_color=black)
 
-My projects span systems programming, language tools, security utilities, and web applications. Visit my [portfolio and CV](https://krzysztofmarciniak.github.io/cv/) for more about my work.
-
 ## Featured projects
 
 | Project | Overview | Shields.io |
