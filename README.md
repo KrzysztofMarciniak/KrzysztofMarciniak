@@ -6,6 +6,7 @@
 
 | Project | Overview | Shields.io |
 |---|---|---|
+| [Lucid Kernel](https://github.com/KrzysztofMarciniak/Lucid-Kernel) | Lucid is a compact, non-POSIX x86 hobby OS built around a KISS design, with a preemptive kernel, Brain tiling window manager, Eye terminal, and Clearsh Lisp shell. It targets a 1 MiB kernel and a 10 MiB bootable ISO, and runs on real ThinkPad X201 hardware. |  ![Language](https://img.shields.io/github/languages/top/KrzysztofMarciniak/Lucid-Kernel?style=flat-square) ![License](https://img.shields.io/github/license/KrzysztofMarciniak/Lucid-Kernel?style=flat-square) |
 | [ct](https://github.com/KrzysztofMarciniak/ct) | X11-based terminal emulator built with clay.h, featuring image (PNG, JPEG, WebP) and video playback (libmpv) support. |  ![Language](https://img.shields.io/github/languages/top/KrzysztofMarciniak/ct?style=flat-square) ![License](https://img.shields.io/github/license/KrzysztofMarciniak/ct?style=flat-square) |
 | [Simple Linux](https://github.com/KrzysztofMarciniak/Simple-Linux/) | [WIP] KISS, developer-first Linux distribution built from source, featuring musl, BusyBox, LLVM/Clang, and the Ark source-based package manager. | [WIP] |
 | [Civet](https://github.com/KrzysztofMarciniak/civet) | Compact C89/POSIX HTTP server for static files and CGI, with an in-memory virtual filesystem and optional file caching. | ![Language](https://img.shields.io/github/languages/top/KrzysztofMarciniak/civet?style=flat-square) ![License](https://img.shields.io/github/license/KrzysztofMarciniak/civet?style=flat-square) |
