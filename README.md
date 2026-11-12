@@ -22,6 +22,7 @@
 
 | Project | Overview | Shields.io |
 |---|---|---|
+| [pm](https://github.com/KrzysztofMarciniak/pm) | A C99 command-line project generator with a reusable static library. It creates C or C++ projects with Make, CMake, POSIX shell, configure, or Autotools build files.  | ![Language](https://img.shields.io/github/languages/top/KrzysztofMarciniak/pm?style=flat-square) ![License](https://img.shields.io/github/license/KrzysztofMarciniak/pm?style=flat-square) |
 | [oopdbmsc](https://github.com/KrzysztofMarciniak/oopdbmsc) | C library interface for working with an object-oriented database. | ![Language](https://img.shields.io/github/languages/top/KrzysztofMarciniak/oopdbmsc?style=flat-square) ![License](https://img.shields.io/github/license/KrzysztofMarciniak/oopdbmsc?style=flat-square) |
 | [scjson](https://github.com/KrzysztofMarciniak/scjson/) | Small C99 JSON library with parsing and structured data manipulation. | ![Language](https://img.shields.io/github/languages/top/KrzysztofMarciniak/scjson?style=flat-square) ![License](https://img.shields.io/github/license/KrzysztofMarciniak/scjson?style=flat-square) |
 | [CppJsonDB](https://github.com/KrzysztofMarciniak/CppJsonDB) | C++ JSON database engine. | ![Language](https://img.shields.io/github/languages/top/KrzysztofMarciniak/CppJsonDB?style=flat-square) ![License](https://img.shields.io/github/license/KrzysztofMarciniak/CppJsonDB?style=flat-square) |
