@@ -2,6 +2,19 @@
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=KrzysztofMarciniak.KrzysztofMarciniak&left_color=black)
 
+## Software I Use Daily
+
+- [mwm](https://github.com/KrzysztofMarciniak/minimal-window-manager) + [xxt](https://github.com/KrzysztofMarciniak/xxt)
+- [mailx](https://linux.die.net/man/1/mailx)
+- [mcabber](https://mcabber.com/)
+- [sfeed](https://codemadness.org/sfeed.html)
+- vi ([busybox](https://busybox.net/) or [openvi](https://github.com/johnsonjh/OpenVi))
+- [cpass](https://github.com/KrzysztofMarciniak/cpass)
+- [screenc](https://github.com/KrzysztofMarciniak/screenc)
+- [jbi](https://github.com/KrzysztofMarciniak/jbi)
+- [wk](https://github.com/KrzysztofMarciniak/wk)
+- Firefox ([uBlock Origin](https://github.com/gorhill/uBlock))
+
 ## Featured projects
 
 | Project | Overview | Shields.io |
