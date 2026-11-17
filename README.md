@@ -13,6 +13,7 @@
 - [screenc](https://github.com/KrzysztofMarciniak/screenc)
 - [jbi](https://github.com/KrzysztofMarciniak/jbi)
 - [wk](https://github.com/KrzysztofMarciniak/wk)
+- [curie](https://github.com/oppiliappan/curie)
 - Firefox ([uBlock Origin](https://github.com/gorhill/uBlock))
 
 ## Featured projects
