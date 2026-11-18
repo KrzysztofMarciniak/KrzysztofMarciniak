@@ -4,6 +4,8 @@
 
 ## Software I Use Daily
 
+![desktop](desktop.png)
+
 - [mwm](https://github.com/KrzysztofMarciniak/minimal-window-manager) + [xxt](https://github.com/KrzysztofMarciniak/xxt) (with [Fixed](https://en.wikipedia.org/wiki/Fixed_(typeface)))  
 - [mailx](https://linux.die.net/man/1/mailx)
 - [mcabber](https://mcabber.com/)
