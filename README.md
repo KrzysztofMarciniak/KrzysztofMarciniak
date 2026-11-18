@@ -5,6 +5,7 @@
 ## Software I Use Daily
 
 ![desktop](desktop.png)
+[wallpaper](https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition)
 
 - [mwm](https://github.com/KrzysztofMarciniak/minimal-window-manager) + [xxt](https://github.com/KrzysztofMarciniak/xxt) (with [Fixed](https://en.wikipedia.org/wiki/Fixed_(typeface)))  
 - [mailx](https://linux.die.net/man/1/mailx)
