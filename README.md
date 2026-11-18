@@ -4,11 +4,11 @@
 
 ## Software I Use Daily
 
-- [mwm](https://github.com/KrzysztofMarciniak/minimal-window-manager) + [xxt](https://github.com/KrzysztofMarciniak/xxt)
+- [mwm](https://github.com/KrzysztofMarciniak/minimal-window-manager) + [xxt](https://github.com/KrzysztofMarciniak/xxt) (with  
 - [mailx](https://linux.die.net/man/1/mailx)
 - [mcabber](https://mcabber.com/)
 - [sfeed](https://codemadness.org/sfeed.html)
-- vi ([busybox](https://busybox.net/) or [openvi](https://github.com/johnsonjh/OpenVi))
+- [jvi](https://github.com/KrzysztofMarciniak/jvi)
 - [cpass](https://github.com/KrzysztofMarciniak/cpass)
 - [screenc](https://github.com/KrzysztofMarciniak/screenc)
 - [jbi](https://github.com/KrzysztofMarciniak/jbi)
