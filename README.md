@@ -17,6 +17,7 @@
 - [jbi](https://github.com/KrzysztofMarciniak/jbi)
 - [wk](https://github.com/KrzysztofMarciniak/wk)
 - Firefox ([uBlock Origin](https://github.com/gorhill/uBlock))
+- [picom](https://github.com/yshui/picom) (transparent windows + [gray filter](https://github.com/KrzysztofMarciniak/picom-monochrome-shader))
 
 ## Featured projects
 
