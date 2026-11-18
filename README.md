@@ -4,7 +4,7 @@
 
 ## Software I Use Daily
 
-- [mwm](https://github.com/KrzysztofMarciniak/minimal-window-manager) + [xxt](https://github.com/KrzysztofMarciniak/xxt) (with  
+- [mwm](https://github.com/KrzysztofMarciniak/minimal-window-manager) + [xxt](https://github.com/KrzysztofMarciniak/xxt) (with [Fixed](https://en.wikipedia.org/wiki/Fixed_(typeface)))  
 - [mailx](https://linux.die.net/man/1/mailx)
 - [mcabber](https://mcabber.com/)
 - [sfeed](https://codemadness.org/sfeed.html)
@@ -13,7 +13,6 @@
 - [screenc](https://github.com/KrzysztofMarciniak/screenc)
 - [jbi](https://github.com/KrzysztofMarciniak/jbi)
 - [wk](https://github.com/KrzysztofMarciniak/wk)
-- [curie](https://github.com/oppiliappan/curie)
 - Firefox ([uBlock Origin](https://github.com/gorhill/uBlock))
 
 ## Featured projects
