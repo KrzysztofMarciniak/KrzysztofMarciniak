@@ -16,8 +16,8 @@
 - [screenc](https://github.com/KrzysztofMarciniak/screenc)
 - [jbi](https://github.com/KrzysztofMarciniak/jbi)
 - [wk](https://github.com/KrzysztofMarciniak/wk)
-- Firefox ([uBlock Origin](https://github.com/gorhill/uBlock))
-  
+- [web](https://github.com/KrzysztofMarciniak/web)
+    
 ## Featured projects
 
 | Project | Overview | Shields.io |
