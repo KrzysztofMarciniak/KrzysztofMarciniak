@@ -12,7 +12,7 @@
 - [mcabber](https://mcabber.com/)
 - [sfeed](https://codemadness.org/sfeed.html)
 - [jvi](https://github.com/KrzysztofMarciniak/jvi)
-- [cpass](https://github.com/KrzysztofMarciniak/cpass)
+- [cpass2](https://github.com/KrzysztofMarciniak/cpass2)
 - [screenc](https://github.com/KrzysztofMarciniak/screenc)
 - [jbi](https://github.com/KrzysztofMarciniak/jbi)
 - [wk](https://github.com/KrzysztofMarciniak/wk)
