@@ -10,7 +10,7 @@
 - [mwm](https://github.com/KrzysztofMarciniak/minimal-window-manager) + [xxt](https://github.com/KrzysztofMarciniak/xxt) (with [Fixed](https://en.wikipedia.org/wiki/Fixed_(typeface)))  
 - [mailx](https://linux.die.net/man/1/mailx)
 - [mcabber](https://mcabber.com/)
-- [sfeed](https://codemadness.org/sfeed.html)
+- [rss89](https://github.com/KrzysztofMarciniak/rss89)
 - [jvi](https://github.com/KrzysztofMarciniak/jvi)
 - [cpass2](https://github.com/KrzysztofMarciniak/cpass2)
 - [screenc](https://github.com/KrzysztofMarciniak/screenc)
