@@ -8,7 +8,7 @@
 [wallpaper](https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition)
 
 - [mwm](https://github.com/KrzysztofMarciniak/minimal-window-manager) + [xxt](https://github.com/KrzysztofMarciniak/xxt) (with [Fixed](https://en.wikipedia.org/wiki/Fixed_(typeface)))  
-- [mailx](https://linux.die.net/man/1/mailx)
+- [s-nail](https://repo.or.cz/s-mailx.git)
 - [mcabber](https://mcabber.com/)
 - [rss89](https://github.com/KrzysztofMarciniak/rss89)
 - [jvi](https://github.com/KrzysztofMarciniak/jvi)
