@@ -17,6 +17,7 @@
 - [jbi](https://github.com/KrzysztofMarciniak/jbi)
 - [wk](https://github.com/KrzysztofMarciniak/wk)
 - [web](https://github.com/KrzysztofMarciniak/web)
+- [see89](https://github.com/KrzysztofMarciniak/see89)
     
 ## Featured projects
 
